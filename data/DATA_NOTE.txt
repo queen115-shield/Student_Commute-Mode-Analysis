@@ -1,0 +1,1 @@
+Dataset files in this ZIP are synthetic demo records, not collected survey responses. Replace with actual anonymous survey data before presenting campus-specific results.
